@@ -1,1 +1,1 @@
-# Statistics-Bayesian_inference-linear_and_wooden_models
+# Статистика и машинное обучение
